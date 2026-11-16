@@ -1,0 +1,4 @@
+vectorAdd
+matMul
+vectorAddStream
+*.o
